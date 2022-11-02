@@ -1,0 +1,11 @@
+workerNode1:
+  description: "workernode 1"
+  hostname: 3.18.212.215
+  nodename: "mynode"
+  osArch: x86_64
+  osFamily: unix
+  osName: linux
+  tags: main-host
+  username: ubuntu
+  ssh-key-storage-path: keys/project/rundeclDemo/ohio.pem
+  ssh-authentication: privateKey
